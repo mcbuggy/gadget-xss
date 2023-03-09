@@ -1,4 +1,4 @@
 <?xml version="1.0" encoding="UTF-8"?> 
-<Module><ModulePrefs title="Test Application"> <Require feature="opensocial-0.9" /> 
-</ModulePrefs> <Content type="html"> hello <script>alert(document.cookie)</script> <img src=x> </Content> </Module>
+<Module><ModulePrefs title="Test Application"></ModulePrefs> 
+<Content type="html"> hello <script>alert(document.cookie)</script> <img src=x> </Content> </Module>
 <script>alert(document.cookie)</script> <img src=x>
